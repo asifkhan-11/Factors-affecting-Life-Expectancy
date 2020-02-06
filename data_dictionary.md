@@ -1,4 +1,4 @@
-#DATA DICTIONARY OF THE DATASET
+# DATA DICTIONARY OF THE DATASET
 ### 1.	Country
 ### 2.	Year
 ### 3.	Status
