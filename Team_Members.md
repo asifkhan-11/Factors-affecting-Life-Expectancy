@@ -1,7 +1,7 @@
 # Team Members
 
-### https://github.com/asifkhan-11/Factors-affecting-Life-Expectancy --> Asif Khan
+### Asif Khan - https://github.com/asifkhan-11/Factors-affecting-Life-Expectancy 
 
-### https://github.com/Gipson97/Factors-affecting-Life-Expectancy --> Gipson Selvakumar Nadar
+### Gipson Selvakumar Nadar - https://github.com/Gipson97/Factors-affecting-Life-Expectancy  
 
-### https://github.com/preranavarsha770/Factors-affecting-Life-Expectancy --> Prerana Varsha Ravindra
+### Prerana Varsha Ravindra - https://github.com/preranavarsha770/Factors-affecting-Life-Expectancy 
