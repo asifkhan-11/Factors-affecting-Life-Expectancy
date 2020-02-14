@@ -11,12 +11,12 @@
 
 
 #### SMART Goal:
-Analyzing the different aspects such as growth of the country, population density, Economic condition, Mortality rates of the country and various other factors which can could lead to the increment or decrement of the life expectancy 
+Analyzing the different aspects such as growth of the country, population density, Economic condition, Mortality rates of the country and various other factors which can could lead to the increment or decrement of the life expectancy.
 #### Dependent Variables:
 Life Expectancy
 #### Specific Questions to Investigate:
-1.Impact of life expectancy on developing countries.                                                                                       
-2.Impact of life expectancy on developed countries.
+1. Impact of life expectancy on developing countries.                                                                                       
+2. Impact of life expectancy on developed countries.
 #### Independent Variables:
 Status, Adult Mortality, infant deaths, percentage expenditure, Hepatitis B, Measles, Polio, Diphtheria, under-five deaths, Alcohol, HIV/AIDS, BMI, Total expenditure, GDP, Population, thinness 1-19 years,thinness 5-9 years,Income composition of resources, Schooling.
 
@@ -53,7 +53,7 @@ We know that lower the p-value (<0.05) , more is the significance. From the belo
 
 
 # Correlation Scatter Plot matrix
- This plot shows the correlation of target variable vs all dependent variables.Correlation ranges from -1 to 1.Value towards -1 are negatively correlated and values towards 1 are positively correlated and if the correlation is 0 then there is no relationship between the variables.Positive and negative determines the direction of the relationship of the given two variables ,While the number indicates the strength of the relationship between two variables
+ This plot shows the correlation of target variable vs all dependent variables.Correlation ranges from -1 to 1.Value towards -1 are negatively correlated and values towards 1 are positively correlated and if the correlation is 0 then there is no relationship between the variables.Positive and negative determines the direction of the relationship of the given two variables ,While the number indicates the strength of the relationship between two variables.
 
 We can observe that Income composition,Schooling Alcohol,Percentage expenditure,GDP,BMI are positivly correlated while Adult mortality and HIV aids and thinness are negatively correlated. Population,Infant deaths and Under five deaths are less correlated.
 
