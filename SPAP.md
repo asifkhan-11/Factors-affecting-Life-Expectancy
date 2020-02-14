@@ -44,19 +44,19 @@ Status, Adult Mortality, infant deaths, percentage expenditure, Hepatitis B, Mea
 In this project we are analyzing the factors that affects the life expectancy of many countries across the globe from the year 2000 to 2015.
 
 #### Hypothesis: - 1
-H0 = In this hypothesis we consider that economic factors contribute to life expectancy i.e. if the economy of a country is less their life expectancy is expected to be less.
+H0 = In this hypothesis we consider that how economic factors contribute to life expectancy i.e. Life expectancy rate is expected to be less if the economy of a country is low.
 
 H1= In this hypothesis we consider that not only economic factor contributes to life expectancy but also other factors like literacy, health, income etc. can affect life expectancy.
 
 #### Hypothesis: - 2
-H0 = In this hypothesis we consider that health affects the life expectancy i.e. diseases like HIV, Measles, diphtheria, polio etc. can reduce life expectancy of a country.
+H0 = In this hypothesis we consider that how health affects the life expectancy i.e. Diseases like HIV, Measles, diphtheria, polio etc. can reduce life expectancy of a country.
 
 H1= In this hypothesis we consider that not only health affects life expectancy but also other factors like Schooling, GDP, economy can contribute to life expectancy.
 
 #### Hypothesis: - 3
-H0 = In this hypothesis we consider that literacy factors affect life expectancy i.e. more educated the country is, higher the life expectancy.
+H0 = In this hypothesis we consider how the literacy of the country affect life expectancy i.e. How well educated the people are in the country, the life expectancy is higher.
 
-H1= In this hypothesis we consider that not only literacy affects life expectancy but also other factors like health, revenue etc. contribute to life expectancy.
+H1= In this hypothesis we consider that not only literacy affects life expectancy but, also other factors like health, revenue etc. contribute towards the life expectancy.
 
 
 ## Summary Analysis:
