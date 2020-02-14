@@ -40,7 +40,7 @@ Status, Adult Mortality, infant deaths, percentage expenditure, Hepatitis B, Mea
 |13.    |Income composition of resources      |Income composition of resourcesHuman Development Index                                       |
 |14.    |Schooling                |Number of years of Schooling(years)                                                          |
 
-## Hypothesis testing:
+## Hypothesis:
 In this project we are analyzing the factors that affects the life expectancy of many countries across the globe from the year 2000 to 2015.
 
 #### Hypothesis: - 1
